@@ -18,9 +18,9 @@ minimal_mistakes_skin    : "default" # "air", "aqua", "contrast", "dark", "dirt"
 locale                   : "en-US"
 title                    : "Home"
 title_separator          : "-"
-name                     : "Danny Castonguay"
+name                     : "Ho Fei Ying"
 description              : "Product Leader."
-url                      : https://blog.dannycastonguay.com # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
+url                      : https://hofeiying.com # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : # the subpath of your site, e.g. "/blog"
 repository               : # GitHub username/repo-name e.g. "mmistakes/minimal-mistakes"
 teaser                   : # path of fallback teaser image, e.g. "/assets/images/500x300.png"
@@ -105,7 +105,7 @@ analytics:
 
 # Site Author
 author:
-  name             : "Danny Castonguay"
+  name             : "Ho Fei Ying"
   avatar           : https://avatars0.githubusercontent.com/u/641370?s=400&v=4 # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
   bio              : "Product leader."
   location         : "US"
