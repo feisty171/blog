@@ -23,8 +23,8 @@ description              : "Product Leader."
 url                      : https://hofeiying.com # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : # the subpath of your site, e.g. "/blog"
 repository               : # GitHub username/repo-name e.g. "mmistakes/minimal-mistakes"
-teaser                   : "https://avatars.githubusercontent.com/u/203210490?s=400&u=2090ad4e0ee317434da4ddb27551c7709449116b&v=4"
-logo                     : "https://avatars.githubusercontent.com/u/203210490?s=400&u=2090ad4e0ee317434da4ddb27551c7709449116b&v=4"
+teaser                   : 
+logo                     : 
 masthead_title           : # overrides the website title displayed in the masthead, use " " for no title
 # breadcrumbs            : false # true, false (default)
 words_per_minute         : 200
