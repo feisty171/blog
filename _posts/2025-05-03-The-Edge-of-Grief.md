@@ -2,7 +2,7 @@
 title: The Edge of Grief
 toc: true
 ---
-I’ve always been an emotional person. Someone who’s deeply sentimental, easily moved by small gestures, old photos, and fading memories. Thankfully, I never had to face real loss when I was young. But as I grow older, the thought of grief feels like a shadow that creeps closer with each passing year.
+I’ve always been an emotional person. Someone who’s deeply sentimental, easily moved by small gestures, old photos, and fading memories. Thankfully, I never had to face loss when I was young. But as I grow older, the thought of grief feels like a shadow that creeps closer with each passing year.
 
 There have been moments where I’ve spiraled into panic attacks, triggered by obsessive thoughts of losing the people I love. These imagined tragedies loop in my mind like a broken record. I know they’re not real, but when they take over, logic disappears. I begin to grieve events that haven’t happened. It feels real and I grieve for a situation that doesn't exist. And the fear becomes overwhelming: What if one day someone I love is just… gone? How would I survive that?
 
