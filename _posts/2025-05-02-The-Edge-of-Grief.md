@@ -17,5 +17,3 @@ Everything in life is ephemeral. It is fragile. It can change overnight.
 And maybe the only way to cope with this inevitable truth is to stay grounded in the present. To fully appreciate the people I love while they are still here. To be more intentional with my time. More generous with my love. More present in my conversations. I have begun taking more photos, capturing the ordinary, a shared laugh, a quiet meal, a hand held a little longer, because I fear forgetting. I fear the day when remembering is all I have.
 
 I think those who suffer most in grief are the ones with the heaviest regrets. I don’t want to be one of them. If I die tomorrow, I want to be at peace with how I lived. I want to know that I loved fully, gave freely, and didn’t wait for later to be the person I was meant to be for the people I care about.
-
-
