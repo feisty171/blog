@@ -1,5 +1,5 @@
 ---
-title: true
+title: The Mirage of Greener Grass
 toc: true
 ---
 I grew up under the shadow of an abusive and controlling father. My childhood felt like being a bird trapped in a cage, constantly yearning for the sky that was always just beyond my reach. Every daydream revolved around the moment I'd finally gather the courage to break free from his grip and experience life on my own terms. I genuinely believed that freedom was the missing piece, the ultimate goal that would finally make life complete. For that freedom, I was willing to pay any price.
