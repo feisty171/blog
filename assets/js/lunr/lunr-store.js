@@ -53,4 +53,9 @@ var store = [{
         "excerpt":"The value of honesty was instilled in me throughout childhood, not just at home but also in classrooms and by figures of authority. Growing up, it was common to hear elders stress the importance of truthfulness. However, honesty wasn’t always simple. My father was intimidating, and even now, memories of...","categories": [],
         "tags": [],
         "url": "https://hofeiying.com/The-Truth-Will-Set-You-Free/",
+        "teaser":null},{
+        "title": "Love In The Dark",
+        "excerpt":"It’s 12:03 AM and sleep evades me. My mind churns with anxieties, tangled in thoughts of overdue bills and mounting debts. Each notification of an unpaid bill feels like a heavy weight, pushing me into a corner of vulnerability I’ve never known before. The fear of being unable to meet...","categories": [],
+        "tags": [],
+        "url": "https://hofeiying.com/Love-In-The-Dark/",
         "teaser":null}]
