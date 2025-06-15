@@ -1,7 +1,7 @@
 ---
 title: A Journaling Platform
 toc: true
---
+---
 I want to build a journaling platform that helps people with emotional wellness and connection. But why a journaling platform?
 
 From an early age, I always knew I was different from everyone else. I was consciously aware of my own thoughts and feelings. I was not like other kids who had ambitions of being doctors, lawyers or astronauts. At that time I didn’t know there was a name for it, an entrepreneur. But I always thought of creating something that would make an impactful change in our world.
