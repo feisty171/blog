@@ -63,4 +63,9 @@ var store = [{
         "excerpt":"I want to build a journaling platform that helps people with emotional wellness and connection. But why a journaling platform? From an early age, I always knew I was different from everyone else. I was consciously aware of my own thoughts and feelings. I was not like other kids who...","categories": [],
         "tags": [],
         "url": "https://hofeiying.com/A-Journaling-Platform/",
+        "teaser":null},{
+        "title": "YOU'RE NOT RESPONSIBLE FOR HOW OTHER'S FEEL",
+        "excerpt":"I’ve always been someone who’s emotionally intelligent, an empath who’s constantly at war with her own thoughts. I can’t help but have this gnawing feeling that I’m always responsible for how others feel. It’s extremely heavy and exhausting. I can’t remember when I started developing this but carrying the emotional...","categories": [],
+        "tags": [],
+        "url": "https://hofeiying.com/You-are-not-responsible-for-how-others-feel/",
         "teaser":null}]
