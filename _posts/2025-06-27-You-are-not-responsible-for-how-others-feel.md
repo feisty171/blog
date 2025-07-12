@@ -1,5 +1,5 @@
 ---
-title: YOU'RE NOT RESPONSIBLE FOR HOW OTHER'S FEEL
+title: You Are Not Responsible For How Others Feel
 toc: true
 ---
 I’ve always been someone who’s emotionally intelligent, an empath who’s constantly at war with her own thoughts. I can’t help but have this gnawing feeling that I'm always responsible for how others feel. 
