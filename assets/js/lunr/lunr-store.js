@@ -1,4 +1,9 @@
 var store = [{
+        "title": "A Letter To My Future Self",
+        "excerpt":"Hey you, How are you feeling right now, please be honest. I hope you’re doing well, that life is going steady and that your days have some light in them. But even if they don’t, I want you to pause and breathe. Because you’ll realise that everything will be okay...","categories": [],
+        "tags": [],
+        "url": "https://hofeiying.com/A-Letter-To-My-Future-Self/",
+        "teaser":null},{
         "title": "Hello world",
         "excerpt":"Hello world 💚  ","categories": [],
         "tags": [],
