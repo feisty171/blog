@@ -1,9 +1,4 @@
 var store = [{
-        "title": "A Letter To My Future Self",
-        "excerpt":"Hey you, How are you feeling right now, please be honest. I hope you’re doing well, that life is going steady and that your days have some light in them. But even if they don’t, I want you to pause and breathe. Because you’ll realise that everything will be okay...","categories": [],
-        "tags": [],
-        "url": "https://hofeiying.com/A-Letter-To-My-Future-Self/",
-        "teaser":null},{
         "title": "Hello world",
         "excerpt":"Hello world 💚  ","categories": [],
         "tags": [],
@@ -73,4 +68,9 @@ var store = [{
         "excerpt":"I’ve always been someone who’s emotionally intelligent, an empath who’s constantly at war with her own thoughts. I can’t help but have this gnawing feeling that I’m always responsible for how others feel. It’s extremely heavy and exhausting. I can’t remember when I started developing this but carrying the emotional...","categories": [],
         "tags": [],
         "url": "https://hofeiying.com/You-are-not-responsible-for-how-others-feel/",
+        "teaser":null},{
+        "title": "A Letter To My Future Self",
+        "excerpt":"Hey you, How are you feeling right now, please be honest. I hope you’re doing well, that life is going steady and that your days have some light in them. But even if they don’t, I want you to pause and breathe. Because you’ll realise that everything will be okay...","categories": [],
+        "tags": [],
+        "url": "https://hofeiying.com/A-Letter-To-My-Future-Self/",
         "teaser":null}]

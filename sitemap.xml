@@ -1,10 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9 http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd" xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
 <url>
-<loc>https://hofeiying.com/A-Letter-To-My-Future-Self/</loc>
-<lastmod>2024-07-12T00:00:00+00:00</lastmod>
-</url>
-<url>
 <loc>https://hofeiying.com/hello-world/</loc>
 <lastmod>2025-03-14T00:00:00+00:00</lastmod>
 </url>
@@ -59,6 +55,10 @@
 <url>
 <loc>https://hofeiying.com/You-are-not-responsible-for-how-others-feel/</loc>
 <lastmod>2025-06-27T00:00:00+00:00</lastmod>
+</url>
+<url>
+<loc>https://hofeiying.com/A-Letter-To-My-Future-Self/</loc>
+<lastmod>2025-07-12T00:00:00+00:00</lastmod>
 </url>
 <url>
 <loc>https://hofeiying.com/categories/</loc>
