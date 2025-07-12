@@ -64,7 +64,7 @@ var store = [{
         "tags": [],
         "url": "https://hofeiying.com/A-Journaling-Platform/",
         "teaser":null},{
-        "title": "YOU'RE NOT RESPONSIBLE FOR HOW OTHER'S FEEL",
+        "title": "You Are Not Responsible For How Others Feel",
         "excerpt":"I’ve always been someone who’s emotionally intelligent, an empath who’s constantly at war with her own thoughts. I can’t help but have this gnawing feeling that I’m always responsible for how others feel. It’s extremely heavy and exhausting. I can’t remember when I started developing this but carrying the emotional...","categories": [],
         "tags": [],
         "url": "https://hofeiying.com/You-are-not-responsible-for-how-others-feel/",
