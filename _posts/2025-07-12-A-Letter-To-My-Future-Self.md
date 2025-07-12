@@ -3,7 +3,7 @@ title: A Letter To My Future Self
 toc: true
 ---
 
-Hey you, How are you feeling right now, please be honest. I hope you’re doing well, that life is going steady and that your days have some light in them. But even if they don’t, I want you to pause and breathe. Because you’ll realise that everything will be okay just like they always do. You’ve been through enough storms to know that no weather, no matter how brutal, lasts forever. Let me remind you of where you came from.
+Hey you, how are you feeling right now, please be honest. I hope you’re doing well, that life is going steady and that your days have some light in them. But even if they don’t, I want you to pause and breathe. Because you’ll realise that everything will be okay just like they always do. You’ve been through enough storms to know that no weather, no matter how brutal, lasts forever. Let me remind you of where you came from.
 
 You were born into a world that didn’t exactly offer a gentle welcome. The family you were born into left you with wounds. Some obvious, some invisible. You didn’t have an option, but you carried them through your childhood, teenagehood and ultimately adulthood anyway. You experienced the confusion, the loneliness, the yearning to be seen and loved without condition. Those open wounds didn’t just hurt. They shaped the way you trusted, the way you connected, the way you viewed yourself. You were like an empty rotting carcass drifting off into the abyss with no meaning nor direction. 
 
@@ -22,6 +22,7 @@ You’ve always deserved more than what you were given. What makes you special i
 So I hope, wherever you are now, you’re living boldly and freely. I hope you’re happier and loving yourself deeply. Please don’t ever forget this: You didn’t just survive your traumatic past. You’re in the process of transforming yourself into the kind of person you once needed. And that’s something you can always be proud of, regardless. If life knocks you down, and it will, get back up. Don’t be so hard on yourself. Because as cliche as it sounds, tough times don’t always last. Only tough people do.
 
 With love,
+
 Your past self
 
 
