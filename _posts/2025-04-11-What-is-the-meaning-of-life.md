@@ -1,6 +1,6 @@
 ---
 title: What is The Meaning of Life
-toc: true
+
 ---
 Ever since I was a child, I’ve carried with me a restless curiosity about the world. It stayed with me through my teenage years and now into adulthood. I’ve always been drawn to solving the questions that intrigues me. But one question in particular still lingers unanswered: What is the meaning of my existence?
 
