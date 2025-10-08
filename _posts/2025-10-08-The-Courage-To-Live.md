@@ -44,7 +44,9 @@ It means saying yes to pain, to grief, to loss, and trusting that somewhere in t
 It is a quiet act of faith, repeated again and again, even when life feels impossible.
 
 There is no finish line to this kind of courage.
+
 No medal. No applause.
+
 Just the quiet, relentless courage of choosing life, over and over, especially on the days where hope feels out of reach.
 
 And maybe that is what makes it so extraordinary.
