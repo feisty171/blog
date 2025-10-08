@@ -9,11 +9,13 @@ Because, in a way, it takes immense resolve to face that kind of finality. To lo
 There was a time I even quietly mocked myself for not having the courage to commit to it. I thought, I don’t have the courage to face life, nor the courage to face death either. What does that make me?
 
 But I’m glad I stayed. 
+
 It made me realise that most of us who speak of wanting to die, are just crying out for a reason to stay. And I’m grateful we found one, even if it was just enough to make it through another day.
 
 Because even in that unfathomable pain, exhaustion, and thick fog of despair, we are choosing courage. 
 
 The courage to live.
+
 To live is to stand in the fire of your own thoughts and still refuse to burn. 
 It is to wake up every day carrying the same heaviness, the same fears, the same uncertainty, and still move, even if only an inch.
 
