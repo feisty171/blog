@@ -22,11 +22,11 @@ It is to wake up every day carrying the same heaviness, the same fears, the same
 To live is to face the weight of being an imperfect human: the loneliness, the disappointments, the quiet doubts that whisper nothing will ever change, or worse, you would be better off gone.
 And yet, somehow, we move on anyway.
 
-  We get up.
-  We brush our teeth.
-  We go to work.
-  We laugh at something small.
-  We make plans for a tomorrow we are not even sure we believe in.
+We get up.
+We brush our teeth.
+We go to work.
+We laugh at something small.
+We make plans for a tomorrow we are not even sure we believe in.
 
 That is courage.
 
