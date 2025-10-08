@@ -7,6 +7,7 @@ I used to believe that people who went through with suicide were the most courag
 Because, in a way, it takes immense resolve to face that kind of finality. To look at life, at everything it holds, and decide to just step away from it. It is not an easy decision to say, “I am going to end my life,” and actually follow through.
 
 There was a time I even quietly mocked myself for not having the courage to commit to it. I thought, I don’t have the courage to face life, nor the courage to face death either. What does that make me?
+
 But I’m glad I stayed. It made me realise that most of us who speak of wanting to die, are just crying out for a reason to stay. And I’m grateful we found one, even if it was just enough to make it through another day.
 
 Because even in that unfathomable pain, exhaustion, and thick fog of despair, we are choosing courage.
