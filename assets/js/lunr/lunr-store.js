@@ -19,11 +19,6 @@ var store = [{
         "tags": [],
         "url": "https://hofeiying.com/Overcoming-perfectionism-and-procrastination/",
         "teaser":null},{
-        "title": "What is The Meaning of Life",
-        "excerpt":"Ever since I was a child, I’ve carried with me a restless curiosity about the world. It stayed with me through my teenage years and now into adulthood. I’ve always been drawn to solving the questions that intrigues me. But one question in particular still lingers unanswered: What is the...","categories": [],
-        "tags": [],
-        "url": "https://hofeiying.com/What-is-the-meaning-of-life/",
-        "teaser":null},{
         "title": "I don't care paradox",
         "excerpt":"“I don’t care.” These are the three words I often say to people or mutter under my breath. You’ve probably heard them from your loved ones or friends too. They’re common, way too common. But there’s something ironic about saying them and secretly caring too much. It’s a paradox I...","categories": [],
         "tags": [],
