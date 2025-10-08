@@ -73,4 +73,9 @@ var store = [{
         "excerpt":"Hey you, how are you feeling right now, please be honest. I hope you’re doing well, that life is going steady and that your days have some light in them. But even if they don’t, I want you to pause and breathe. Because you’ll realise that everything will be okay...","categories": [],
         "tags": [],
         "url": "https://hofeiying.com/A-Letter-To-My-Future-Self/",
+        "teaser":null},{
+        "title": "The Courage To Live",
+        "excerpt":"I used to believe that people who went through with suicide were the most courageous ones. Because, in a way, it takes immense resolve to face that kind of finality. To look at life, at everything it holds, and decide to just step away from it. It is not an...","categories": [],
+        "tags": [],
+        "url": "https://hofeiying.com/The-Courage-To-Live/",
         "teaser":null}]
