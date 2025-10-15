@@ -9,11 +9,6 @@ var store = [{
         "tags": [],
         "url": "https://hofeiying.com/Dear-Dad/",
         "teaser":null},{
-        "title": "Conditioned Silence",
-        "excerpt":"Part of growing up is learning who you really are. For me, that process has been painful. I come from a dysfunctional family where I had to manage my emotions alone from a young age. Over time, I learned to repress them. I believed I wasn’t allowed to feel what...","categories": [],
-        "tags": [],
-        "url": "https://hofeiying.com/Conditioned-Silence/",
-        "teaser":null},{
         "title": "Overcoming Perfectionism and Procrastination",
         "excerpt":"My boss often talks about the “get things done” mentality, a philosophy that emphasizes action over perfection. When he first introduced this concept to me, I wasn’t sure if it aligned with my values or approach to work. As someone who has always been an overthinker, I’ve long aimed for...","categories": [],
         "tags": [],
