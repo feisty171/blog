@@ -44,11 +44,6 @@ var store = [{
         "tags": [],
         "url": "https://hofeiying.com/The-Truth-Will-Set-You-Free/",
         "teaser":null},{
-        "title": "A Journaling Platform",
-        "excerpt":"I want to build a journaling platform that helps people with emotional wellness and connection. But why a journaling platform? From an early age, I always knew I was different from everyone else. I was consciously aware of my own thoughts and feelings. I was not like other kids who...","categories": [],
-        "tags": [],
-        "url": "https://hofeiying.com/A-Journaling-Platform/",
-        "teaser":null},{
         "title": "You Are Not Responsible For How Others Feel",
         "excerpt":"I’ve always been someone who’s emotionally intelligent, an empath who’s constantly at war with her own thoughts. I can’t help but have this gnawing feeling that I’m always responsible for how others feel. It’s extremely heavy and exhausting. I can’t remember when I started developing this but carrying the emotional...","categories": [],
         "tags": [],
