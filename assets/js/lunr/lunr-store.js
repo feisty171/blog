@@ -44,11 +44,6 @@ var store = [{
         "tags": [],
         "url": "https://hofeiying.com/The-Truth-Will-Set-You-Free/",
         "teaser":null},{
-        "title": "Love In The Dark",
-        "excerpt":"It’s 12:03 AM and sleep evades me. My mind churns with anxieties, tangled in thoughts of overdue bills and mounting debts. Each notification of an unpaid bill feels like a heavy weight, pushing me into a corner of vulnerability I’ve never known before. The fear of being unable to meet...","categories": [],
-        "tags": [],
-        "url": "https://hofeiying.com/Love-In-The-Dark/",
-        "teaser":null},{
         "title": "A Journaling Platform",
         "excerpt":"I want to build a journaling platform that helps people with emotional wellness and connection. But why a journaling platform? From an early age, I always knew I was different from everyone else. I was consciously aware of my own thoughts and feelings. I was not like other kids who...","categories": [],
         "tags": [],
