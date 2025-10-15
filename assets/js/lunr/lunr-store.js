@@ -29,11 +29,6 @@ var store = [{
         "tags": [],
         "url": "https://hofeiying.com/On-Being-Held-Captive-By-My-Emotions/",
         "teaser":null},{
-        "title": "The Edge of Grief",
-        "excerpt":"I’ve always been an emotional person. Someone who’s deeply sentimental, easily moved by small gestures, old photos, and fading memories. Thankfully, I never had to face real loss when I was young. But as I grow older, the thought of grief feels like a shadow that creeps closer with each...","categories": [],
-        "tags": [],
-        "url": "https://hofeiying.com/The-Edge-of-Grief/",
-        "teaser":null},{
         "title": "A Life Spent On Self-Sabotage",
         "excerpt":"I always assumed that the older I got, the closer I’d be to the peace I desperately yearned for as a child. The truth is, peace was never something I could reliably expect. Conflict felt more certain than winning the lottery. If you asked me to name a moment from...","categories": [],
         "tags": [],
