@@ -53,4 +53,9 @@ var store = [{
         "excerpt":"I used to believe that people who went through with suicide were the most courageous ones. Because, in a way, it takes immense resolve to face that kind of finality. To look at life, at everything it holds, and decide to just step away from it. It is not an...","categories": [],
         "tags": [],
         "url": "https://hofeiying.com/The-Courage-To-Live/",
+        "teaser":null},{
+        "title": "Cherophobia and The Rewired Brain",
+        "excerpt":"These days, I’ve been noticing this anxiety around having positive thoughts. It’s as though the moment I start thinking of an optimistic future, my brain immediately shuts it down. So I did a little research and found the term cherophobia, the fear of happiness. It’s when someone avoids positive experiences...","categories": [],
+        "tags": [],
+        "url": "https://hofeiying.com/Cherophobia-and-The-Rewired-Brain/",
         "teaser":null}]
