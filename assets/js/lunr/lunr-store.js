@@ -58,4 +58,9 @@ var store = [{
         "excerpt":"These days, I’ve been noticing this anxiety around having positive thoughts. It’s as though the moment I start thinking of an optimistic future, my brain immediately shuts it down. So I did a little research and found the term cherophobia, the fear of happiness. It’s when someone avoids positive experiences...","categories": [],
         "tags": [],
         "url": "https://hofeiying.com/Cherophobia-and-The-Rewired-Brain/",
+        "teaser":null},{
+        "title": "The Last 7 Minutes",
+        "excerpt":"It is almost midnight as I lie in bed, thinking about an epiphany I had the other day. I cannot pretend my life is anywhere near its highs. But I am on the road to recovery. There are still days when I feel beaten down, when I replay mistakes from...","categories": [],
+        "tags": [],
+        "url": "https://hofeiying.com/The-Last-7-Minutes/",
         "teaser":null}]
