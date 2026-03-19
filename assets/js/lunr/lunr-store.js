@@ -4,11 +4,6 @@ var store = [{
         "tags": [],
         "url": "https://hofeiying.com/hello-world/",
         "teaser":null},{
-        "title": "A letter to the person who've hurt me the most",
-        "excerpt":"Dear Dad, It’s your birthday today, and it’s been a long time since I celebrated it with you. I don’t have the courage to send this letter because deep down I think you’re still the same person and wouldn’t react well. I remember when I was a kid, I stopped...","categories": [],
-        "tags": [],
-        "url": "https://hofeiying.com/Dear-Dad/",
-        "teaser":null},{
         "title": "Overcoming Perfectionism and Procrastination",
         "excerpt":"My boss often talks about the “get things done” mentality, a philosophy that emphasizes action over perfection. When he first introduced this concept to me, I wasn’t sure if it aligned with my values or approach to work. As someone who has always been an overthinker, I’ve long aimed for...","categories": [],
         "tags": [],
