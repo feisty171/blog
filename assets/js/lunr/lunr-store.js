@@ -53,4 +53,9 @@ var store = [{
         "excerpt":"It is almost midnight as I lie in bed, thinking about an epiphany I had the other day. I cannot pretend my life is anywhere near its highs. But I am on the road to recovery. There are still days when I feel beaten down, when I replay mistakes from...","categories": [],
         "tags": [],
         "url": "https://hofeiying.com/The-Last-7-Minutes/",
+        "teaser":null},{
+        "title": "This is for the people who don’t know they're struggling yet",
+        "excerpt":"This is for the person who don’t know they’re struggling yet There’s always been this feeling lingering inside me that I never could quite explain it. It feels like a frequency running underneath everything, just slightly out of sync with the world around me. I would be in a room...","categories": [],
+        "tags": [],
+        "url": "https://hofeiying.com/altered-self/",
         "teaser":null}]
