@@ -3,8 +3,6 @@ title: This is for the people who don’t know they're struggling yet
 toc: true
 ---
 
-This is for the person who don’t know they're struggling yet
-
 There’s always been this feeling lingering inside me that I never could quite explain it. 
 
 It feels like a frequency running underneath everything, just slightly out of sync with the world around me. I would be in a room full of people, conversations happening, life moving. Yet, I would feel like I was watching the motions of life through a tempered glass. I was present, but I didn’t feel quite alive. 
